@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7db38d9a-0a52-4e81-85b2-1dd53558c283" name="Changes" comment="" />
+    <list default="true" id="7db38d9a-0a52-4e81-85b2-1dd53558c283" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GuZLQITMGKvkcf2AMJCLWO5zyL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -51,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667240373699</updated>
       <workItem from="1667240375478" duration="106000" />
-      <workItem from="1667240503041" duration="836000" />
+      <workItem from="1667240503041" duration="2174000" />
     </task>
     <servers />
   </component>

@@ -46,6 +46,16 @@ application {
     mainClass.set("exploregradle.AppKt")
 }
 
+tasks.register("author") {
+    val author: String by project
+    val email: String by project
+
+    doFirst {
+        println("author: $author")
+        println("email: $email")
+    }
+}
+
 tasks.register("greeting") {
     doFirst {
         print("First Greeting")
